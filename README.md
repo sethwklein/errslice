@@ -6,11 +6,11 @@ with more than one.
 
 ## Usage
 
-`go get sethwklein.net/errslice`
+`go get github.com/sethwklein/errslice`
 
-`import "sethwklein.net/errslice"`
+`import "github.com/sethwklein/errslice"`
 
-https://godoc.org/sethwklein.net/errslice
+https://pkg.go.dev/github.com/sethwklein/errslice
 
 ## Rationale
 

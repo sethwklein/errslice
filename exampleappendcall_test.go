@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"sethwklein.net/errslice"
+	"github.com/sethwklein/errslice"
 )
 
 type angryWriteCloser struct{}

@@ -8,7 +8,7 @@ import (
 
 	"github.com/kylelemons/godebug/diff"
 
-	"sethwklein.net/errslice"
+	"github.com/sethwklein/errslice"
 )
 
 type other []error
